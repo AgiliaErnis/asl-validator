@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected</folder>
+	<filename>b8.jpg</filename>
+	<path>/Users/agilia/repos/asl-validator/Tensorflow/workspace/images/collected/b8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>153</ymin>
+			<xmax>417</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+</annotation>
