@@ -26,3 +26,5 @@ Currently it support only static signs of ASL alpabet.
 
 https://user-images.githubusercontent.com/40677903/171731664-48ca3556-c3e3-4457-961a-faab84caf34f.mp4
 
+https://user-images.githubusercontent.com/40677903/171732403-b97bc490-2fda-4431-8f85-0e47b76d27d1.mp4
+
