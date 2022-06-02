@@ -5,7 +5,7 @@ This is a prototype for real-time ASL alphabet recognition. It is meant to provi
 Currently it support only static signs of ASL alpabet.
 ![image](https://user-images.githubusercontent.com/40677903/171730881-6ec40b7e-e5c4-48e4-b08b-f665f2108c2b.png)
 
-## Dependancied used in this project:
+## Dependencies used in this project:
 - Python https://www.python.org/
 - Conda https://anaconda.cloud/getting-started-with-anaconda-individual-edition
 - Jupyter Notebook https://jupyter.org/
