@@ -21,6 +21,13 @@ Currently it support only static signs of ASL alpabet.
 - Run Anaconda command in the terminal to start Tensorflow: conda activate tensorflow
 - Launch Jupiter notebook by running a command: jupyter notebook
 - After a new browser window open one of the scripts, either asl-validator-initial.ipynb or asl-validator-DEV-vNext.ipynb
+- Run sells, consult the comments, section 5 "Collect Data" should be skipped if data collection is not needed
+
+## Code structure:
+- jupyer notebook script(s)
+- [data] folder that contains dataset, each sign has corresponding sequences/videos per sign in a separate folder and each of the folders contain NumPY files for each frame
+- [logs] folder, contains information on training process, generated when script is ran should be openened using TensorBoard, using command 'tensorboard --logdir "asl-validator/logs"'
+- 
 
 *For more information on how to work with Jupiter Notebook consult https://jupyter.org/
 
