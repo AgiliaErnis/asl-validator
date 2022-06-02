@@ -22,4 +22,7 @@ Currently it support only static signs of ASL alpabet.
 - Launch Jupiter notebook by running a command: jupyter notebook
 - After a new browser window open one of the scripts, either asl-validator-initial.ipynb or asl-validator-DEV-vNext.ipynb
 
-### For more information on how to work with Jupiter Notebook consult https://jupyter.org/
+*For more information on how to work with Jupiter Notebook consult https://jupyter.org/
+
+https://user-images.githubusercontent.com/40677903/171731664-48ca3556-c3e3-4457-961a-faab84caf34f.mp4
+
