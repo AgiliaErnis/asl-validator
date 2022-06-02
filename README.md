@@ -27,7 +27,6 @@ Currently it support only static signs of ASL alpabet.
 - jupyer notebook script(s)
 - [data] folder that contains dataset, each sign has corresponding sequences/videos per sign in a separate folder and each of the folders contain NumPY files for each frame
 - [logs] folder, contains information on training process, generated when script is ran should be openened using TensorBoard, using command 'tensorboard --logdir "asl-validator/logs"'
-- 
 
 *For more information on how to work with Jupiter Notebook consult https://jupyter.org/
 
